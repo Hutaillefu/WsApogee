@@ -1,0 +1,13 @@
+parameters:
+  ws_apogee_url: 'ws-apogee-url'
+  ws_apogee_administratif: 'AdministratifMetier?wsdl'
+
+services:
+#    app.wsapogee.example:
+#        class:     App\WsApogeeBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
+#        calls:
+#            - [setService, ["@service_id"]]
+#        tags:
+#            - { name: twig.extension }
+#            - { name: kernel.event_listener, event: kernel.exception, method: onKernelException }
